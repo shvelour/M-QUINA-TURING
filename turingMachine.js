@@ -49,5 +49,5 @@ function turingMachine(inputArray) {
   return results;
 }
 
-let expression = [3, 4, "+", 2, "*", 7, "/"];
+let expression = [2, 50, "+", 3, "*", 20, "/"];
 console.log(turingMachine(expression));
